@@ -9,7 +9,7 @@
   "author": "Maxime Allanic <maxime@allanic.me> (https://allanic.me)",
   "license": "ISC",
   "devDependencies": {
-    "mocha": "^7.1.1"
+    "mocha": "^10.2.0"
   },
   "dependencies": {
     "@nivuus/proxify": "^1.0.1",
